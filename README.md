@@ -62,6 +62,18 @@ http://localhost:8081/swagger-ui/index.html
 
 Developed by Işıl Kahraman for SE4458 Spring Term 2025 Midterm.
 
+Issues
+
+I couldn't deploy to Render because of "./mvnw: No such file or directory" this error and whatever I do I couldnt't solve it.
+
+You can find the source code [here](https://github.com/isilkahraman/se4458-midterm).
+
+Video Presentation
+https://drive.google.com/file/d/1l_hXtqpA38a0nIoIa_BhUEf20JHyrzw_/view?usp=sharing
+
+Data Model
+https://drive.google.com/file/d/15P_fd58XP5wkyXaFOMbQ2AQGEX-qdpbp/view?usp=sharing
+
 
 
 
