@@ -63,7 +63,7 @@ Developed by Işıl Kahraman for SE4458 Spring Term 2025 Midterm.
 
 Issues
 
-I couldn't deploy to Render because of "./mvnw: No such file or directory" this error and whatever I do I couldnt't solve it.
+I couldn't deploy to Render because of "./mvnw: No such file or directory" error and whatever I do I couldnt't solve it.
 
 You can find the source code [here](https://github.com/isilkahraman/se4458-midterm).
 
