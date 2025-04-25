@@ -1,6 +1,6 @@
 #  Airline Ticketing API (SE4458 Midterm Project)
 
-This project is a RESTful backend API for an airline ticketing system developed using **Java Spring Boot** and **PostgreSQL**. It is built for the **SE4458 Software Engineering** midterm assignment.
+This project is a backend API for an airline ticketing system developed using **Java Spring Boot** and **PostgreSQL**. 
 
 ---
 
@@ -35,14 +35,13 @@ You can test all endpoints using Swagger:
 > Note: First, use `/api/v1/auth/login` to get a JWT token. Then click **"Authorize"** and paste:
 >
 > ```
-> Bearer your.jwt.token
+> Bearer token
 > ```
 
 ---
 
 ##  Local Setup
 
-### 1. PostgreSQL Setup
 
 Create a PostgreSQL database named:
 
